@@ -13,8 +13,6 @@ Our tool for analyzing the dataset will Excels built in VBA. With VBA we will ge
 ### Results
 ![Results 2017](Resources/Results_2017.png) ![Results 2018](Resources/Results_2018.png)
 
-Looking at the results for 2017 and 2018 above and focusing on return it is easy to recommend 2 stocks for Steve’s parents. ENPH and RUN were the only stocks that had positive growth in 2018. ENPH featured outstanding growth in 2017 and 2018 and is recommended. the DQ stock Steve’s parents held performed well in 2017 and was net positive after 2018. SEDG had outstanding growth in 2017 and only lost 7.8% in 2018. over all 2017 was a great stock year, the only one that was negative was TRERP, while 2018 was almost entirely a decrease across the industry
-
  Recommendations
   - ENPH
   - RUN
